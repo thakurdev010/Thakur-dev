@@ -1,0 +1,43 @@
+---
+title: "Meaningful description of the package Thakur-dev and how it should be used"
+author: "Thakur Dev Pandey"
+date: "12 July 2017"
+output: rmarkdown::html_VIGNETTE
+vignette: >
+  %\VignetteIndexEntry{Meaningful description of the package Thakur-dev and how it should be used}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(Thakur-dev)
+## function "add" simply add two numbers and produces the output 
+
+## "The sum is: "
+
+add(2, 3)
+
+## function "subtr" simply substract two numbers and produces the output 
+
+## "The difference is: "
+
+subtr(2, 3)
+
+## function "divi" simply divides two numbers and produces the output 
+
+## "The division is is: "
+
+divi(3, 9)
+
+## fumction "multi" simply multiply two numbers and produces the oputput 
+
+## "The multiplication is: "
+
+multi(2, 3)
+
+```
