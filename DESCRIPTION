@@ -1,11 +1,13 @@
 Package: Thakurdev
 Type: Package
-Title: This is my awesome package
+Title: awesome package
 Version: 0.1.0
 Author: Thakur Dev Pandey
 Maintainer: Thakur Dev Pandey <thakurdev009@gmail.com>
 Description: It is my package which does basic things like addition, substraction, division and multiplication.
-License: GPL2
+License: GPL-2 
 Encoding: UTF-8
+Repository: Github
 LazyData: true
-RoxygenNote: 6.0.1
+Built: R 3.3.2; ; 2017-07-12 16:03:07 UTC; windows
+
