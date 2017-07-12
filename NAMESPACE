@@ -1,5 +1,1 @@
 exportPattern("^[[:alpha:]]+")
-
-#export(add, subtr, divi, multi)
-
-#S3method(methodName, className)

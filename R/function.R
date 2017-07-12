@@ -1,3 +1,13 @@
+
+#' Title
+#'
+#' @param number1 
+#' @param number2 
+#'
+#' @return
+#' @export
+#'
+#' @examples
 add = function(number1, number2){
   
   sum = number1 + number2

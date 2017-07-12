@@ -1,21 +1,16 @@
 ---
-title: "Meaningful description of the package Thakur-dev and how it should be used"
+title: "Meaningful description of the package Thakurdev and how it should be used"
 author: "Thakur Dev Pandey"
-date: "12 July 2017"
-output: rmarkdown::html_VIGNETTE
+date: "9 July 2017"
+output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{Meaningful description of the package Thakur-dev and how it should be used}
+  %\VignetteIndexEntry{Meaningful description of the package Thakurdev and how it should be used}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ```{r}
-library(Thakur-dev)
+library(Thakurdev)
 ## function "add" simply add two numbers and produces the output 
 
 ## "The sum is: "
@@ -24,7 +19,7 @@ add(2, 3)
 
 ## function "subtr" simply substract two numbers and produces the output 
 
-## "The difference is: "
+## "The substraction is: "
 
 subtr(2, 3)
 
@@ -41,3 +36,5 @@ divi(3, 9)
 multi(2, 3)
 
 ```
+
+
